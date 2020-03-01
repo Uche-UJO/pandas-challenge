@@ -1,0 +1,12 @@
+1).	According to the data analyzed, Charter schools in general, out-performed the Public District schools across all metrics. 
+	These schools (charter schools) had higher passrates in reading and math than the District type schools. 
+	More analysis however, will be required determine the main reasons behind this observation.
+
+
+ 
+2).	It was also observed that schools with higher spending per student actually underperformed compared to schools with lower spending per student.
+	There is also no correlation between school spending and average math or reading scores.
+
+
+
+
